@@ -1,0 +1,8 @@
+Flask
+mysql-connector-python
+python-dotenv
+flask-cors
+flask-limiter
+bcrypt
+PyJWT
+bleach
